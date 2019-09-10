@@ -25,8 +25,8 @@ class douban():
         post_data = {
             'source': 'None',  # 不需要改动
             'redir': 'https://www.douban.com',  # 不需要改动
-            'form_email': '18846425113',  # 填账号
-            'form_password': 'weng1321456',  # 填密码
+            'form_email': 'your name',  # 填账号
+            'form_password': 'password',  # 填密码
             'login': '登录'
         }
         #下面是获取验证码图片的连接
